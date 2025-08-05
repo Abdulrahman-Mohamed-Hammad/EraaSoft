@@ -1,0 +1,1 @@
+SOLID principles are five design guidelines that help write clean, maintainable, and scalable object-oriented code. They stand for Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion principles.
