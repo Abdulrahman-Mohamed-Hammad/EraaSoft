@@ -1,0 +1,1 @@
+A Stateless widget never changes once built, while a Stateful widget can update its UI when its state changes.
